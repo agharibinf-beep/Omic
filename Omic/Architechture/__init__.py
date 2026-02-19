@@ -1,5 +1,3 @@
-
-
 # RNATPH Package Initializer
 import model
 import ut
